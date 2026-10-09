@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.dmp
+*.exe
+*.dll
+pydeps/

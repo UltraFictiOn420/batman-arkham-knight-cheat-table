@@ -1,0 +1,65 @@
+[
+  {
+    "purpose": "Refill living on-foot player",
+    "category": "survival",
+    "feature": "Infinite Health",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  },
+  {
+    "purpose": "Cap eligible enemy HP at max / 10",
+    "category": "combat",
+    "feature": "Super Damage",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  },
+  {
+    "purpose": "Cap eligible enemy HP at 1",
+    "category": "combat",
+    "feature": "One-Hit Knockout",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  },
+  {
+    "purpose": "Raise selected player inventory range fields",
+    "category": "reach",
+    "feature": "Extra-Long Grapple",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  },
+  {
+    "purpose": "Raise player Batarang range and auto-target range",
+    "category": "reach",
+    "feature": "Extra-Long Batarang",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  },
+  {
+    "purpose": "J / K / L, same pawn and world",
+    "category": "positions",
+    "feature": "Save / Teleport / Undo",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  },
+  {
+    "purpose": "F1-F4: 1 / 2 / 5 / 10 body heights",
+    "category": "positions",
+    "feature": "Upward Teleports",
+    "status": "Implemented; metadata and simulated-write tests passed; gameplay pending",
+    "code_type": "Cheat Engine Lua",
+    "game": "Batman Arkham Knight Steam PC x64",
+    "version": 1
+  }
+]
